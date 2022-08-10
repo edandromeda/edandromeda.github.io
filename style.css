@@ -5,9 +5,8 @@
 }
 
 body {
- background-color: #B09398;
-/*   background-image: url("pics/rain.gif"); /* Image from: https://gifer.com/en/2ii5 */
-/*   background-attachment: fixed; */
+/*  background-color: #B09398; */
+  background-image: linear-gradient(#caaeb0, #B09398);
 }
 
 /* STYLE TEXT */
