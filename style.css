@@ -110,7 +110,34 @@ a{
   margin-right: auto;
   padding: .5cm;
   display: none;
+  box-shadow: 5px 5px 5px #343434;
 } 
+
+#intro{
+  color: #9B6A6C;
+  font-size: 45px;
+  width:85%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1.5cm;
+}
+
+.aboutText{
+  font-size: 30px;
+  width:85%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.staySafe{
+  color: #5F5449;
+  font-size: 40px;
+  width:85%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1cm;
+  text-shadow: 1.5px 1.5px #2a2a2a;
+}
 
 /* STYLE IMAGES */
 
@@ -154,6 +181,7 @@ img:hover{
   h2{
     font-size: 40px;
     text-shadow: 2px 2px #2a2a2a;
+    margin-top: .5cm;
   }
 
   h3{
@@ -244,9 +272,7 @@ button{
   padding: 10px;
 }
 
-#tellMeButton{
-  
-}
+
 /* STYLE DIVS */
 
 .scriptQues{
@@ -261,6 +287,7 @@ button{
   margin-top: 60px;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 1cm;
 
   font-family: "Nunito";
   font-size: 0.9cm;
